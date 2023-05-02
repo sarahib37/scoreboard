@@ -40,20 +40,6 @@ h1{
     margin-left: 8px;
 }
 
-.home{
-    border: 2px solid red;
-    margin-top: 20px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-}
-
-.guest{
-    border: 2px solid red;
-    margin-top: 20px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-}
-
 .score{
     margin-left: 10px;
     margin-right: auto;
